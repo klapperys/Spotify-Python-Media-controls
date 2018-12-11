@@ -1,6 +1,6 @@
 # Spotify-Python-Media-controls
 
-Python script to automatically move mouse to Spotify player to click play pause or skip and to return to original postion  in milliseconds 
+Python script to automatically move mouse to Spotify player to click play pause or skip and to return to original position  in milliseconds 
 
 
 
